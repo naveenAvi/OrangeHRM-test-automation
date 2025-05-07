@@ -1,4 +1,4 @@
-selenium
+
 pytest
 chromedriver-autoinstaller
 pytest-html
