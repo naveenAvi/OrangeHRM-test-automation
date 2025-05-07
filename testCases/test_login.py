@@ -46,3 +46,4 @@ class Test_001_Login:
 
         self.driver.close()
         logging.info("Browser closed")
+ 
